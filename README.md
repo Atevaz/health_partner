@@ -113,11 +113,7 @@ shared
 └── bloc_observer
 ```
 ## Screenshots
-
-![Screenshot_2022-08-27-16-04-14-711_com example gp](https://user-images.githubusercontent.com/101355785/194030068-629ee6ee-84ef-453b-9ec5-d22d9cdddddb.jpg)
-![Screenshot_2022-08-27-16-04-18-398_com example gp](https://user-images.githubusercontent.com/101355785/194030092-84584391-dbbe-4e66-a819-f0f063e38f64.jpg)
-![Screenshot_2022-08-27-16-04-21-513_com example gp](https://user-images.githubusercontent.com/101355785/194030115-f1279a10-bdcc-4bae-8951-d45e33ca1565.jpg)
-![Screenshot_2022-08-27-16-04-24-175_com example gp](https://user-images.githubusercontent.com/101355785/194030133-1847ac30-990c-4091-ba00-72af9583c966.jpg)
+|<img src="https://user-images.githubusercontent.com/101355785/194030068-629ee6ee-84ef-453b-9ec5-d22d9cdddddb.jpg" width ="300">|<img src="https://user-images.githubusercontent.com/101355785/194030092-84584391-dbbe-4e66-a819-f0f063e38f64.jpg" width="300">|<img src="https://user-images.githubusercontent.com/101355785/194030115-f1279a10-bdcc-4bae-8951-d45e33ca1565.jpg" width="300">||<img src="https://user-images.githubusercontent.com/101355785/194030133-1847ac30-990c-4091-ba00-72af9583c966.jpg" width ="300">|
 
 
 ## Demo
