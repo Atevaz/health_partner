@@ -6,8 +6,8 @@ the user can buy from market off app healthy products,
 the user can follow her health by charts that used in our app
 
 ## Table of contents
-- ### [main packages used](https://github.com/Atevaz/health_partner/blob/master/README.md#main-packages-used)
-- ### [Folder structure](https://github.com/Atevaz/health_partner/blob/master/README.md#folder-structure)
+- ### [main packages used](https://github.com/Atevaz/health_partner/blob/master/README.md#main-packages-used-1)
+- ### [Folder structure](https://github.com/Atevaz/health_partner/blob/master/README.md#folder-structure-1)
 - ### [Screenshots](https://github.com/Atevaz/health_partner/blob/master/README.md#screenshots)
 - ### [Demo video](https://github.com/Atevaz/health_partner/blob/master/README.md#demo-video)
 
