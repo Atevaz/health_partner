@@ -9,7 +9,7 @@ the user can follow her health by charts that used in our app
 - ### [main packages used](https://github.com/Atevaz/health_partner/blob/master/README.md#main-packages-used-1)
 - ### [Folder structure](https://github.com/Atevaz/health_partner/blob/master/README.md#folder-structure-1)
 - ### [Screenshots](https://github.com/Atevaz/health_partner/blob/master/README.md#screenshots-1)
-- ### [Demo video](https://github.com/Atevaz/health_partner/blob/master/README.md#demo)
+- ### [Demo video](https://github.com/Atevaz/health_partner/blob/master/README.md#demo-1)
 
 ## Main packages used
 - [firebase_core](https://pub.dev/packages/firebase_core) to make integration database
