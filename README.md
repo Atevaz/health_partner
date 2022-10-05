@@ -123,12 +123,6 @@ images.githubusercontent.com/101355785/194051152-e10850bd-0b62-4587-90cd-5885eaf
 |<img src="https://user-images.githubusercontent.com/101355785/194053298-0dfd7624-483e-4452-98f5-a4eba0da2fb9.jpg" width ="200">|<img src="https://user-images.githubusercontent.com/101355785/194053312-6f6698d1-a199-41d9-8b5a-3cc0672a46bc.jpg" width="200">|<img src="https://user-images.githubusercontent.com/101355785/194053320-bc1bdee0-3208-44e4-bafc-5515fb82c6b9.jpg" width="200">|<img src="https://user-images.githubusercontent.com/101355785/194053324-69646056-c0a9-4d8c-8c7c-1ec1566f6777.jpg" width ="200">|
 |<img src="https://user-images.githubusercontent.com/101355785/194053757-ac980286-2eb4-44fc-bb7d-f5f73ab47883.jpg" width ="200">|<img src="https://user-images.githubusercontent.com/101355785/194053763-18d39485-ef3a-4275-8896-4ae813b7bb0c.jpg" width="200">|<img src="https://user-images.githubusercontent.com/101355785/194053764-58eb9041-d66f-4296-9aba-428dc9b207d5.jpg" width="200">|<img src="https://user-images.githubusercontent.com/101355785/194053770-8f616e98-861b-4b49-a2c4-e835a9b4e0a3.jpg" width ="200">|
 
-![Screenshot_2022-08-27-16-09-13-538_com example gp](https://user-images.githubusercontent.com/101355785/194053757-ac980286-2eb4-44fc-bb7d-f5f73ab47883.jpg)
-![Screenshot_2022-08-27-16-09-43-222_com example gp](https://user-images.githubusercontent.com/101355785/194053763-18d39485-ef3a-4275-8896-4ae813b7bb0c.jpg)
-![Screenshot_2022-08-27-16-09-55-275_com example gp](https://user-images.githubusercontent.com/101355785/194053764-58eb9041-d66f-4296-9aba-428dc9b207d5.jpg)
-![Screenshot_2022-08-27-16-10-15-711_com example gp](https://user-images.githubusercontent.com/101355785/194053770-8f616e98-861b-4b49-a2c4-e835a9b4e0a3.jpg)
-
-
 ## Demo
 
 https://www.youtube.com/watch?v=FR8rsPSzJb4&ab_channel=omaressam
