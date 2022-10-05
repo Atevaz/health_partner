@@ -117,4 +117,3 @@ shared
 
 https://www.youtube.com/watch?v=FR8rsPSzJb4&ab_channel=omaressam
 
-## Screenshots
