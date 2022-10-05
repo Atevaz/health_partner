@@ -115,6 +115,6 @@ shared
 
 ## Demo
 
-https://youtu.be/FR8rsPSzJb4
+https://www.youtube.com/watch?v=FR8rsPSzJb4&ab_channel=omaressam
 
 ## Screenshots
